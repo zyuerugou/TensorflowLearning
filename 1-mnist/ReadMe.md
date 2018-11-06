@@ -1,5 +1,4 @@
 第一个项目
-
 1.学习了如何使用TensorFlow将数据读入内存
 2.通过建立Softmax回归模型，学习如何使用TensorFlow建立简单的图像识别模型
     TensorFLow处理问题的基本流程：
